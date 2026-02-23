@@ -1,0 +1,29 @@
+# Core data science
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# NLP & Sentiment
+textblob>=0.17.0
+vaderSentiment>=3.3.2
+nltk>=3.8.0
+langdetect>=1.0.9
+contractions>=0.1.73
+
+# Transformers (sentiment + emotion)
+transformers>=4.25.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+
+# Emotion analysis
+networkx>=3.0
+
+# Utilities
+tqdm>=4.65.0
+jupyter>=1.0.0
+openpyxl>=3.1.0
